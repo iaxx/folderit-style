@@ -1,0 +1,7 @@
+table.file-list td a.icon:before, table.file-list td a .icon:before, table.file-list td .linkLike.icon:before,table.file-list td .linkLike .icon:before{
+    font-size: 4rem;
+}
+
+table tr th, table tr td {
+    font-size: 2rem;
+}
